@@ -45,7 +45,7 @@ const NavContent: React.FC = () => (
   <div className="mx-auto max-w-screen-xl px-4 py-3">
     <ul className="flex flex-wrap justify-start space-x-8 text-sm font-semibold text-white uppercase">
       <li>
-        <a href="#" className="hover:text-blue-300">
+        <a href="/" className="hover:text-blue-300">
           Home
         </a>
       </li>
